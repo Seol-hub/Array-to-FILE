@@ -1,4 +1,4 @@
-## // Summary
+## Summary
 The key is to put '&' before a variable, not an array or string. <br/>
 Example) &count
 
